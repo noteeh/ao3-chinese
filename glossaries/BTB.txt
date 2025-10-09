@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Noteeh
 更新时间：2025-10-09
 
@@ -31,6 +31,8 @@ Zeal
 zeal
 Freo
 freo
+Freodore
+freodore
 Seible
 seible
 Zerpents
@@ -41,6 +43,14 @@ Deboneirs
 deboneirs
 Deboneir
 deboneir
+Seinyans
+seinyans
+Seinyan
+seinyan
+Doremins
+doremins
+Doremin
+doremin
 Vox
 vox
 Luca
