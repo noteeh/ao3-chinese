@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Noteeh
 更新时间：2025-10-09
 
@@ -39,8 +39,8 @@ Zerpents
 zerpents
 Zerpent
 zerpent
-Deboneirs
-deboneirs
+Debonheirs
+debonheirs
 Deboneir
 deboneir
 Seinyans
