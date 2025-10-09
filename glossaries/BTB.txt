@@ -1,0 +1,59 @@
+版本号：1.0.1
+维护者：Noteeh
+更新时间：2025-10-09
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+// Wakaba Mutsumi = 若叶 睦
+// Elvira Stewart = 艾尔维拉·斯图尔特
+// Hypatia：伊帕希娅
+// Dis City：狄斯城
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+// Hypercube：异方晶
+// Sinner：禁闭者
+NIJISANJI：彩虹社
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+// EDGE
+// HUSH
+By the Beat
+BY THE BEAT
+Kaelix
+kaelix
+Debonair
+debonair
+Zeal
+zeal
+Freo
+freo
+Seible
+seible
+Zerpents
+zerpents
+Zerpent
+zerpent
+Deboneirs
+deboneirs
+Deboneir
+deboneir
+Vox
+vox
+Luca
+luca
+Shu
+shu
+Wilson
+wilson
+Vanta
+vanta
+Zali
+zali
+
+正则表达式
+// 匹配德语中 "Wachmann" 的单数和复数形式
+// Wachm(a|ä)nn(er)?: 守卫
