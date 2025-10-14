@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Noteeh
 更新时间：2025-10-09
 
@@ -29,6 +29,8 @@ Debonair
 debonair
 Zeal
 zeal
+Ginjoka
+ginjoka
 Freo
 freo
 Freodore
