@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：Noteeh
 更新时间：2026-01-19
 
@@ -9,9 +9,10 @@
 // Wakaba Mutsumi = 若叶 睦
 // Elvira Stewart = 艾尔维拉·斯图尔特
 // Hypatia：伊帕希娅
-// Dis City：狄斯城  
-Calliope Sharp = 卡利俄珀·夏普
+// Dis City：狄斯城
+Hogwarts：霍格沃兹
 Calliope：卡利俄珀
+Calliope Sharp = 卡利俄珀·夏普
 Sharp：夏普
 Ominis：奥米尼斯
 Ominis Gaunt = 奥米尼斯·冈特
@@ -29,11 +30,17 @@ Phineas Nigellus Black = 菲尼亚斯·奈杰勒斯·布莱克
 Sirius：西里斯
 Sirius Black = 西里斯·布莱克
 Siri：西里
-Ursula：乌苏拉
-Ursula Black = 乌苏拉·布莱克
 Fig：菲戈
+Eleazar Fig = 以利埃撒·菲戈
 Kreacher：克利切
 Phin：菲恩
+Morgaine：莫甘娜
+Morgaine Wyllt = 莫甘娜·威尔特
+Wyllt：威尔特
+Ranrok：兰洛克
+Rockwood：洛克伍德
+Ursula：乌苏拉
+Ursula Black = 乌苏拉·布莱克
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
