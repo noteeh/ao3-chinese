@@ -1,6 +1,6 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：Noteeh
-更新时间：2025-10-09
+更新时间：2026-01-19
 
 // 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 
@@ -9,7 +9,31 @@
 // Wakaba Mutsumi = 若叶 睦
 // Elvira Stewart = 艾尔维拉·斯图尔特
 // Hypatia：伊帕希娅
-// Dis City：狄斯城
+// Dis City：狄斯城  
+Calliope Sharp = 卡利俄珀·夏普
+Calliope：卡利俄珀
+Sharp：夏普
+Ominis：奥米尼斯
+Ominis Gaunt = 奥米尼斯·冈特
+Gaunt：冈特
+Antares：安塔雷斯
+Antares Black = 安塔雷斯·布莱克
+Antares Pollux Black = 安塔雷斯·波吕克斯·布莱克
+Ares：阿瑞斯
+Sebastian：塞巴斯蒂安
+Sebastian Sallow = 塞巴斯蒂安·萨鲁
+Sallow：萨鲁
+Black：布莱克
+Phineas：菲尼亚斯
+Phineas Nigellus Black = 菲尼亚斯·奈杰勒斯·布莱克
+Sirius：西里斯
+Sirius Black = 西里斯·布莱克
+Siri：西里
+Ursula：乌苏拉
+Ursula Black = 乌苏拉·布莱克
+Fig：菲戈
+Kreacher：克利切
+Phin：菲恩
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
