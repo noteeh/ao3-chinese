@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：Noteeh
 更新时间：2026-01-19
 
@@ -47,6 +47,8 @@ Ursula Black = 乌苏拉·布莱克
 // Hypercube：异方晶
 // Sinner：禁闭者
 NIJISANJI：彩虹社
+Bound-Soul curse：缚魂咒
+cursemate：诅咒伴侣
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
