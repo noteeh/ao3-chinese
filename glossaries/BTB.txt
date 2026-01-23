@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：Noteeh
 更新时间：2026-01-19
 
@@ -17,9 +17,9 @@ Sharp：夏普
 Ominis：奥米尼斯
 Ominis Gaunt = 奥米尼斯·冈特
 Gaunt：冈特
-Antares：安塔雷斯
-Antares Black = 安塔雷斯·布莱克
-Antares Pollux Black = 安塔雷斯·波吕克斯·布莱克
+Antares：安塔瑞斯
+Antares Black = 安塔瑞斯·布莱克
+Antares Pollux Black = 安塔瑞斯·波吕克斯·布莱克
 Ares：阿瑞斯
 Sebastian：塞巴斯蒂安
 Sebastian Sallow = 塞巴斯蒂安·萨鲁
@@ -49,6 +49,7 @@ Ursula Black = 乌苏拉·布莱克
 NIJISANJI：彩虹社
 Bound-Soul curse：缚魂咒
 cursemate：诅咒伴侣
+charm：护身符
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
