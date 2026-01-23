@@ -1,4 +1,4 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：Noteeh
 更新时间：2026-01-19
 
@@ -50,6 +50,8 @@ NIJISANJI：彩虹社
 Bound-Soul curse：缚魂咒
 cursemate：诅咒伴侣
 charm：护身符
+they：TA
+their：TA的
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
