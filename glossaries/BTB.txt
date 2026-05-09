@@ -1,4 +1,4 @@
-版本号：1.0.13
+版本号：1.0.14
 维护者：Noteeh
 更新时间：2026-01-19
 
@@ -13,6 +13,7 @@
 Ogata：尾形
 Sugimoto：杉元
 Hanazawa：花泽
+Yuusaku：勇作
 Tsurumi：鹤见
 Wusami：宇佐美
 
